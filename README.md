@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Kobe
+## Assignment 1 
+## 02/1/26
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* https://medium.com/@danielabatibabatunde1/mastering-linked-lists-in-golang-fd080a591533
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* none 
+
